@@ -1,0 +1,232 @@
+﻿IO_code_BEA,BEA_code_Description,CN_code,CN_code_Description
+321100,Sawmills and wood preservation,6,"Wood Processing, Wood, Bamboo, Rattan and Coir Products Straw Products "
+321200,"Veneer, plywood, and engineered wood product manufacturing",6,"Wood Processing, Wood, Bamboo, Rattan and Coir Products Straw Products "
+321910,Millwork,6,"Wood Processing, Wood, Bamboo, Rattan and Coir Products Straw Products "
+3219A0,All other wood product manufacturing,6,"Wood Processing, Wood, Bamboo, Rattan and Coir Products Straw Products "
+327100,Clay product and refractory manufacturing,16,Nonmetal Mineral Products
+327200,Glass and glass product manufacturing,16,Nonmetal Mineral Products
+327310,Cement manufacturing,16,Nonmetal Mineral Products
+327320,Ready-mix concrete manufacturing,16,Nonmetal Mineral Products
+327330,"Concrete pipe, brick, and block manufacturing",16,Nonmetal Mineral Products
+327390,Other concrete product manufacturing,16,Nonmetal Mineral Products
+327400,Lime and gypsum product manufacturing,16,Nonmetal Mineral Products
+327910,Abrasive product manufacturing,16,Nonmetal Mineral Products
+327991,Cut stone and stone product manufacturing,16,Nonmetal Mineral Products
+327992,Ground or treated mineral and earth manufacturing,16,Nonmetal Mineral Products
+327993,Mineral wool manufacturing,16,Nonmetal Mineral Products
+327999,Miscellaneous nonmetallic mineral products,16,Nonmetal Mineral Products
+331110,Iron and steel mills and ferroalloy manufacturing,17,Smelting and Pressing of Ferrous Metals
+331200,Steel product manufacturing from purchased steel,17,Smelting and Pressing of Ferrous Metals
+331313,Alumina refining and primary aluminum production,18,Smelting and Pressing of Nonferrous Metals
+33131B,Aluminum product manufacturing from purchased aluminum,18,Smelting and Pressing of Nonferrous Metals
+331410,Nonferrous metal (except aluminum) smelting and refining,18,Smelting and Pressing of Nonferrous Metals
+331420,"Copper rolling, drawing, extruding and alloying",18,Smelting and Pressing of Nonferrous Metals
+331490,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",18,Smelting and Pressing of Nonferrous Metals
+331510,Ferrous metal foundries,19,Metal Products
+331520,Nonferrous metal foundries,19,Metal Products
+332114,Custom roll forming,19,Metal Products
+33211A,"All other forging, stamping, and sintering",19,Metal Products
+332119,"Metal crown, closure, and other metal stamping (except automotive)",19,Metal Products
+332200,Cutlery and handtool manufacturing,19,Metal Products
+332310,Plate work and fabricated structural product manufacturing,19,Metal Products
+332320,Ornamental and architectural metal products manufacturing,19,Metal Products
+332410,Power boiler and heat exchanger manufacturing,19,Metal Products
+332420,Metal tank (heavy gauge) manufacturing,19,Metal Products
+332430,"Metal can, box, and other metal container (light gauge) manufacturing",19,Metal Products
+332500,Hardware manufacturing,19,Metal Products
+332600,Spring and wire product manufacturing,19,Metal Products
+332710,Machine shops,19,Metal Products
+332720,"Turned product and screw, nut, and bolt manufacturing",19,Metal Products
+332800,"Coating, engraving, heat treating and allied activities",19,Metal Products
+332913,Plumbing fixture fitting and trim manufacturing,19,Metal Products
+33291A,Valve and fittings other than plumbing,19,Metal Products
+332991,Ball and roller bearing manufacturing,19,Metal Products
+332996,Fabricated pipe and pipe fitting manufacturing,19,Metal Products
+33299A,"Ammunition, arms, ordnance, and accessories manufacturing",19,Metal Products
+332999,Other fabricated metal manufacturing,19,Metal Products
+333111,Farm machinery and equipment manufacturing,21,Special Purposes Equipment Manufacturing
+333112,Lawn and garden equipment manufacturing,21,Special Purposes Equipment Manufacturing
+333120,Construction machinery manufacturing,21,Special Purposes Equipment Manufacturing
+333130,Mining and oil and gas field machinery manufacturing,21,Special Purposes Equipment Manufacturing
+333242,Semiconductor machinery manufacturing,21,Special Purposes Equipment Manufacturing
+33329A,Other industrial machinery manufacturing,21,Special Purposes Equipment Manufacturing
+333314,Optical instrument and lens manufacturing,26,"Instruments, Meters Machinery"
+333316,Photographic and photocopying equipment manufacturing,26,"Instruments, Meters Machinery"
+333318,Other commercial and service industry machinery manufacturing,26,"Instruments, Meters Machinery"
+333414,Heating equipment (except warm air furnaces) manufacturing,20,General Equipment Manufacturing
+333415,"Air conditioning, refrigeration, and warm air heating equipment manufacturing",20,General Equipment Manufacturing
+333413,Industrial and commercial fan and blower and air purification equipment manufacturing,20,General Equipment Manufacturing
+333511,Industrial mold manufacturing,20,General Equipment Manufacturing
+333514,"Special tool, die, jig, and fixture manufacturing",21,Special Purposes Equipment Manufacturing
+333517,Machine tool manufacturing,20,General Equipment Manufacturing
+33351B,"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",20,General Equipment Manufacturing
+333611,Turbine and turbine generator set units manufacturing,20,General Equipment Manufacturing
+333612,"Speed changer, industrial high-speed drive, and gear manufacturing",20,General Equipment Manufacturing
+333613,Mechanical power transmission equipment manufacturing,20,General Equipment Manufacturing
+333618,Other engine equipment manufacturing,20,General Equipment Manufacturing
+333912,Air and gas compressor manufacturing,20,General Equipment Manufacturing
+333914,"Measuring, dispensing, and other pumping equipment manufacturing",20,General Equipment Manufacturing
+333920,Material handling equipment manufacturing,20,General Equipment Manufacturing
+333991,Power-driven handtool manufacturing,20,General Equipment Manufacturing
+333993,Packaging machinery manufacturing,20,General Equipment Manufacturing
+333994,Industrial process furnace and oven manufacturing,20,General Equipment Manufacturing
+33399A,Other general purpose machinery manufacturing,20,General Equipment Manufacturing
+33399B,Fluid power process machinery,20,General Equipment Manufacturing
+334111,Electronic computer manufacturing,25,Computer Telecommunications and Other Electronic Equipment Manufacturing
+334112,Computer storage device manufacturing,25,Computer Telecommunications and Other Electronic Equipment Manufacturing
+334118,Computer terminals and other computer peripheral equipment manufacturing,25,Computer Telecommunications and Other Electronic Equipment Manufacturing
+334210,Telephone apparatus manufacturing,25,Computer Telecommunications and Other Electronic Equipment Manufacturing
+334220,Broadcast and wireless communications equipment,25,Computer Telecommunications and Other Electronic Equipment Manufacturing
+334290,Other communications equipment manufacturing,25,Computer Telecommunications and Other Electronic Equipment Manufacturing
+334413,Semiconductor and related device manufacturing,25,Computer Telecommunications and Other Electronic Equipment Manufacturing
+334418,Printed circuit assembly (electronic assembly) manufacturing,25,Computer Telecommunications and Other Electronic Equipment Manufacturing
+33441A,Other electronic component manufacturing,25,Computer Telecommunications and Other Electronic Equipment Manufacturing
+334510,Electromedical and electrotherapeutic apparatus manufacturing,26,"Instruments, Meters Machinery"
+334511,"Search, detection, and navigation instruments manufacturing",26,"Instruments, Meters Machinery"
+334512,Automatic environmental control manufacturing,26,"Instruments, Meters Machinery"
+334513,Industrial process variable instruments manufacturing,26,"Instruments, Meters Machinery"
+334514,Totalizing fluid meter and counting device manufacturing,26,"Instruments, Meters Machinery"
+334515,Electricity and signal testing instruments manufacturing,26,"Instruments, Meters Machinery"
+334516,Analytical laboratory instrument manufacturing,26,"Instruments, Meters Machinery"
+334517,Irradiation apparatus manufacturing,26,"Instruments, Meters Machinery"
+33451A,"Watch, clock, and other measuring and controlling device manufacturing",26,"Instruments, Meters Machinery"
+334300,Audio and video equipment manufacturing,25,Computer Telecommunications and Other Electronic Equipment Manufacturing
+334610,Manufacturing and reproducing magnetic and optical media,25,Computer Telecommunications and Other Electronic Equipment Manufacturing
+335110,Electric lamp bulb and part manufacturing,24,Electric Equipment and Machinery Manufacturing
+335120,Lighting fixture manufacturing,24,Electric Equipment and Machinery Manufacturing
+335210,Small electrical appliance manufacturing,24,Electric Equipment and Machinery Manufacturing
+335220,Major household appliance manufacturing,24,Electric Equipment and Machinery Manufacturing
+335311,"Power, distribution, and specialty transformer manufacturing",24,Electric Equipment and Machinery Manufacturing
+335312,Motor and generator manufacturing,24,Electric Equipment and Machinery Manufacturing
+335313,Switchgear and switchboard apparatus manufacturing,24,Electric Equipment and Machinery Manufacturing
+335314,Relay and industrial control manufacturing,24,Electric Equipment and Machinery Manufacturing
+335911,Storage battery manufacturing,24,Electric Equipment and Machinery Manufacturing
+335912,Primary battery manufacturing,24,Electric Equipment and Machinery Manufacturing
+335920,Communication and energy wire and cable manufacturing,24,Electric Equipment and Machinery Manufacturing
+335930,Wiring device manufacturing,24,Electric Equipment and Machinery Manufacturing
+335991,Carbon and graphite product manufacturing,24,Electric Equipment and Machinery Manufacturing
+335999,All other miscellaneous electrical equipment and component manufacturing,24,Electric Equipment and Machinery Manufacturing
+336111,Automobile manufacturing,22,Automobile Manufacturing
+336112,Light truck and utility vehicle manufacturing,22,Automobile Manufacturing
+336120,Heavy duty truck manufacturing,22,Automobile Manufacturing
+336211,Motor vehicle body manufacturing,22,Automobile Manufacturing
+336212,Truck trailer manufacturing,22,Automobile Manufacturing
+336213,Motor home manufacturing,22,Automobile Manufacturing
+336214,Travel trailer and camper manufacturing,22,Automobile Manufacturing
+336310,Motor vehicle gasoline engine and engine parts manufacturing,22,Automobile Manufacturing
+336320,Motor vehicle electrical and electronic equipment manufacturing,22,Automobile Manufacturing
+336350,Motor vehicle transmission and power train parts manufacturing,22,Automobile Manufacturing
+336360,Motor vehicle seating and interior trim manufacturing,22,Automobile Manufacturing
+336370,Motor vehicle metal stamping,22,Automobile Manufacturing
+336390,Other motor vehicle parts manufacturing,22,Automobile Manufacturing
+3363A0,"Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",22,Automobile Manufacturing
+336411,Aircraft manufacturing,23,"Railway, Ship, Aerospace and Other Transportation Equipment Manufacturing "
+336412,Aircraft engine and engine parts manufacturing,23,"Railway, Ship, Aerospace and Other Transportation Equipment Manufacturing "
+336413,Other aircraft parts and auxiliary equipment manufacturing,23,"Railway, Ship, Aerospace and Other Transportation Equipment Manufacturing "
+336414,Guided missile and space vehicle manufacturing,23,"Railway, Ship, Aerospace and Other Transportation Equipment Manufacturing "
+33641A,Propulsion units and parts for space vehicles and guided missiles,23,"Railway, Ship, Aerospace and Other Transportation Equipment Manufacturing "
+336500,Railroad rolling stock manufacturing,23,"Railway, Ship, Aerospace and Other Transportation Equipment Manufacturing "
+336611,Ship building and repairing,23,"Railway, Ship, Aerospace and Other Transportation Equipment Manufacturing "
+336612,Boat building,23,"Railway, Ship, Aerospace and Other Transportation Equipment Manufacturing "
+336991,"Motorcycle, bicycle, and parts manufacturing",23,"Railway, Ship, Aerospace and Other Transportation Equipment Manufacturing "
+336992,"Military armored vehicle, tank, and tank component manufacturing",23,"Railway, Ship, Aerospace and Other Transportation Equipment Manufacturing "
+336999,All other transportation equipment manufacturing,23,"Railway, Ship, Aerospace and Other Transportation Equipment Manufacturing "
+337110,Wood kitchen cabinet and countertop manufacturing,6,"Wood Processing, Wood, Bamboo, Rattan and Coir Products Straw Products "
+337121,Upholstered household furniture manufacturing,7,Furniture Manufacturing
+337122,Nonupholstered wood household furniture manufacturing,7,Furniture Manufacturing
+337127,Institutional furniture manufacturing,7,Furniture Manufacturing
+33712N,Other household nonupholstered furniture,7,Furniture Manufacturing
+337215,"Showcase, partition, shelving, and locker manufacturing",7,Furniture Manufacturing
+33721A,Office furniture and custom architectural woodwork and millwork manufacturing,7,Furniture Manufacturing
+337900,Other furniture related product manufacturing,7,Furniture Manufacturing
+339112,Surgical and medical instrument manufacturing,13,Medical and Pharmaceutical Products
+339113,Surgical appliance and supplies manufacturing,13,Medical and Pharmaceutical Products
+339114,Dental equipment and supplies manufacturing,13,Medical and Pharmaceutical Products
+339115,Ophthalmic goods manufacturing,13,Medical and Pharmaceutical Products
+339116,Dental laboratories,13,Medical and Pharmaceutical Products
+339910,Jewelry and silverware manufacturing,27,Other Manufacturing
+339920,Sporting and athletic goods manufacturing,10,"Stationary,Educational, Industrial arts, Sports and Entertainment Products "
+339930,"Doll, toy, and game manufacturing",10,"Stationary,Educational, Industrial arts, Sports and Entertainment Products "
+339940,Office supplies (except paper) manufacturing,10,"Stationary,Educational, Industrial arts, Sports and Entertainment Products "
+339950,Sign manufacturing,10,"Stationary,Educational, Industrial arts, Sports and Entertainment Products "
+339990,All other miscellaneous manufacturing,27,Other Manufacturing
+311111,Dog and cat food manufacturing,1,Food Production
+311119,Other animal food manufacturing,1,Food Production
+311210,Flour milling and malt manufacturing,1,Food Production
+311221,Wet corn milling,1,Food Production
+311225,Fats and oils refining and blending,1,Food Production
+311224,Soybean and other oilseed processing,1,Food Production
+311230,Breakfast cereal manufacturing,1,Food Production
+311300,Sugar and confectionery product manufacturing,1,Food Production
+311410,Frozen food manufacturing,1,Food Production
+311420,"Fruit and vegetable canning, pickling, and drying",28,"Processing and preserving of meat, fish, crustaceans and molluscs, fruit and vegetables"
+311513,Cheese manufacturing,1,Food Production
+311514,"Dry, condensed, and evaporated dairy product manufacturing",1,Food Production
+31151A,Fluid milk and butter manufacturing,1,Food Production
+311520,Ice cream and frozen dessert manufacturing,1,Food Production
+311615,Poultry processing,28,"Processing and preserving of meat, fish, crustaceans and molluscs, fruit and vegetables"
+31161A,"Animal (except poultry) slaughtering, rendering, and processing",28,"Processing and preserving of meat, fish, crustaceans and molluscs, fruit and vegetables"
+311700,Seafood product preparation and packaging,28,"Processing and preserving of meat, fish, crustaceans and molluscs, fruit and vegetables"
+311810,Bread and bakery product manufacturing,1,Food Production
+3118A0,"Cookie, cracker, pasta, and tortilla manufacturing",1,Food Production
+311910,Snack food manufacturing,1,Food Production
+311920,Coffee and tea manufacturing,2,"Wine, Beverage and Refined Tea Manufacturing "
+311930,Flavoring syrup and concentrate manufacturing,1,Food Production
+311940,Seasoning and dressing manufacturing,1,Food Production
+311990,All other food manufacturing,1,Food Production
+312110,Soft drink and ice manufacturing,2,"Wine, Beverage and Refined Tea Manufacturing "
+312120,Breweries,2,"Wine, Beverage and Refined Tea Manufacturing "
+312130,Wineries,2,"Wine, Beverage and Refined Tea Manufacturing "
+312140,Distilleries,2,"Wine, Beverage and Refined Tea Manufacturing "
+312200,Tobacco manufacturing,29,Manufacture of tobacco products
+313100,"Fiber, yarn, and thread mills",3,Textile Industry
+313200,Fabric mills,3,Textile Industry
+313300,Textile and fabric finishing and fabric coating mills,3,Textile Industry
+314110,Carpet and rug mills,3,Textile Industry
+314120,Curtain and linen mills,3,Textile Industry
+314900,Other textile product mills,3,Textile Industry
+315000,Apparel manufacturing,4,Garments and Apparel Industry 
+316000,Leather and allied product manufacturing,5,"Leather, Fur, Wool and Shoes Products"
+322110,Pulp mills,8,Papermaking and Paper Products
+322120,Paper mills,8,Papermaking and Paper Products
+322130,Paperboard mills,8,Papermaking and Paper Products
+322210,Paperboard container manufacturing,8,Papermaking and Paper Products
+322220,Paper bag and coated and treated paper manufacturing,8,Papermaking and Paper Products
+322230,Stationery product manufacturing,8,Papermaking and Paper Products
+322291,Sanitary paper product manufacturing,8,Papermaking and Paper Products
+322299,All other converted paper product manufacturing,8,Papermaking and Paper Products
+323110,Printing,9,Printing and Record Duplicating
+323120,Support activities for printing,9,Printing and Record Duplicating
+324110,Petroleum refineries,11,"Oil, Coal and Other Fuel Processing Industries"
+324121,Asphalt paving mixture and block manufacturing,11,"Oil, Coal and Other Fuel Processing Industries"
+324122,Asphalt shingle and coating materials manufacturing,11,"Oil, Coal and Other Fuel Processing Industries"
+324190,Other petroleum and coal products manufacturing,11,"Oil, Coal and Other Fuel Processing Industries"
+325110,Petrochemical manufacturing,12,Raw Chemical Materials and Chemical Products
+325120,Industrial gas manufacturing,12,Raw Chemical Materials and Chemical Products
+325130,Synthetic dye and pigment manufacturing,12,Raw Chemical Materials and Chemical Products
+325180,Other basic inorganic chemical manufacturing,12,Raw Chemical Materials and Chemical Products
+325190,Other basic organic chemical manufacturing,12,Raw Chemical Materials and Chemical Products
+325211,Plastics material and resin manufacturing,12,Raw Chemical Materials and Chemical Products
+3252A0,Synthetic rubber and artificial and synthetic fibers and filaments manufacturing,12,Raw Chemical Materials and Chemical Products
+325411,Medicinal and botanical manufacturing,13,Medical and Pharmaceutical Products
+325412,Pharmaceutical preparation manufacturing,13,Medical and Pharmaceutical Products
+325413,In-vitro diagnostic substance manufacturing,13,Medical and Pharmaceutical Products
+325414,Biological product (except diagnostic) manufacturing,13,Medical and Pharmaceutical Products
+325310,Fertilizer manufacturing,14,Chemical Fiber Manufacturing
+325320,Pesticide and other agricultural chemical manufacturing,14,Chemical Fiber Manufacturing
+325510,Paint and coating manufacturing,15,Rubber and Plastic Products
+325520,Adhesive manufacturing,15,Rubber and Plastic Products
+325610,Soap and cleaning compound manufacturing,15,Rubber and Plastic Products
+325620,Toilet preparation manufacturing,15,Rubber and Plastic Products
+325910,Printing ink manufacturing,15,Rubber and Plastic Products
+3259A0,All other chemical product and preparation manufacturing,15,Rubber and Plastic Products
+326110,Plastics packaging materials and unlaminated film and sheet manufacturing,15,Rubber and Plastic Products
+326120,"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",15,Rubber and Plastic Products
+326130,"Laminated plastics plate, sheet (except packaging), and shape manufacturing",15,Rubber and Plastic Products
+326140,Polystyrene foam product manufacturing,15,Rubber and Plastic Products
+326150,Urethane and other foam product (except polystyrene) manufacturing,15,Rubber and Plastic Products
+326160,Plastics bottle manufacturing,15,Rubber and Plastic Products
+326190,Other plastics product manufacturing,15,Rubber and Plastic Products
+326210,Tire manufacturing,15,Rubber and Plastic Products
+326220,Rubber and plastics hoses and belting manufacturing,15,Rubber and Plastic Products
+326290,Other rubber product manufacturing,15,Rubber and Plastic Products

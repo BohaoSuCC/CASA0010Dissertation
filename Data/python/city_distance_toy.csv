@@ -1,0 +1,27 @@
+,"Suzhou City, Jiangsu, China","Yangzhou City, Jiangsu, China","Anqing, Anhui, China","Changzhou, Jiangsu, China","Chizhou, Anhui, China","Chuzhou, Anhui, China","Hangzhou City, Zhejiang, China","Hefei, Anhui, China","Huzhou, Zhejiang, China","Jiaxing, Zhejiang, China","Jinhua, Zhejiang, China","Ma'anshan, Anhui, China","Nanjing, Jiangsu, China","Nantong, Jiangsu, China","Ningbo, Zhejiang, China","Shaoxing, Zhejiang, China","Taizhou, Zhejiang, China","Taizhou, Jiangsu, China","Tongling, Anhui, China","Wuxi City, Jiangsu, China","Wuhu, Anhui, China","Xuancheng, Anhui, China","Yancheng City, Jiangsu, China","Zhenjiang, Jiangsu, China","Zhoushan, Zhejiang, China","Shanghai, China"
+"Suzhou City, Jiangsu, China",0,5,1,8,1,1,5,1,5,10,1,1,1,10,5,5,1,8,1,8,1,1,3,5,5,10
+"Yangzhou City, Jiangsu, China",5,0,3,5,3,10,1,3,5,5,1,5,10,5,1,1,3,10,3,5,3,1,10,10,1,3
+"Anqing, Anhui, China",1,3,0,3,9,5,1,9,3,1,1,5,5,1,1,1,1,1,9,1,9,5,3,3,1,1
+"Changzhou, Jiangsu, China",8,5,3,0,1,1,1,1,1,5,1,1,3,10,1,1,1,10,1,10,1,1,3,3,1,7
+"Chizhou, Anhui, China",1,3,9,1,0,5,3,10,1,1,1,10,10,1,1,1,1,3,10,3,10,7,1,3,1,1
+"Chuzhou, Anhui, China",1,10,5,1,5,0,1,7,1,1,1,7,10,3,1,1,1,5,10,3,7,7,3,5,1,1
+"Hangzhou City, Zhejiang, China",5,1,1,1,3,1,0,1,10,10,10,1,1,3,10,10,7,3,1,3,1,1,1,1,7,5
+"Hefei, Anhui, China",1,3,9,1,10,7,1,0,1,1,1,8,8,1,1,1,1,3,7,3,8,8,1,3,1,1
+"Huzhou, Zhejiang, China",5,5,3,1,1,1,10,1,0,10,10,1,1,3,7,10,7,3,1,3,1,1,1,1,7,5
+"Jiaxing, Zhejiang, China",10,5,1,5,1,1,10,1,10,0,10,1,1,3,7,8,7,1,1,1,1,1,1,1,7,5
+"Jinhua, Zhejiang, China",1,1,1,1,1,1,10,1,10,10,0,1,1,1,7,8,7,1,1,3,1,1,1,3,7,3
+"Ma'anshan, Anhui, China",1,5,5,1,10,7,1,8,1,1,1,0,7,1,1,1,1,3,7,1,7,7,1,3,1,1
+"Nanjing, Jiangsu, China",1,10,5,3,10,10,1,8,1,1,1,7,0,3,1,1,1,5,7,5,7,7,3,10,1,3
+"Nantong, Jiangsu, China",10,5,1,10,1,3,3,1,3,3,1,1,3,0,3,3,1,3,1,10,1,1,5,3,1,10
+"Ningbo, Zhejiang, China",5,1,1,1,1,1,10,1,7,7,7,1,1,3,0,10,10,5,1,3,1,1,1,3,7,5
+"Shaoxing, Zhejiang, China",5,1,1,1,1,1,10,1,10,8,8,1,1,3,10,0,10,3,1,3,1,1,1,1,5,5
+"Taizhou, Zhejiang, China",1,3,1,1,1,1,7,1,7,7,7,1,1,1,10,10,0,3,1,3,1,1,1,3,8,5
+"Taizhou, Jiangsu, China",8,10,1,10,3,5,3,3,3,1,1,3,5,3,5,3,3,0,1,7,1,1,3,3,5,10
+"Tongling, Anhui, China",1,3,9,1,10,10,1,7,1,1,1,7,7,1,1,1,1,1,0,3,8,5,3,7,1,1
+"Wuxi City, Jiangsu, China",8,5,1,10,3,3,3,3,3,1,3,1,5,10,3,3,3,7,3,0,1,3,1,3,5,10
+"Wuhu, Anhui, China",1,3,9,1,10,7,1,8,1,1,1,7,7,1,1,1,1,1,8,1,0,7,1,5,1,1
+"Xuancheng, Anhui, China",1,1,5,1,7,7,1,8,1,1,1,7,7,1,1,1,1,1,5,3,7,0,1,5,1,1
+"Yancheng City, Jiangsu, China",3,10,3,3,1,3,1,1,1,1,1,1,3,5,1,1,1,3,3,1,1,1,0,5,1,3
+"Zhenjiang, Jiangsu, China",5,10,3,3,3,5,1,3,1,1,3,3,10,3,3,1,3,3,7,3,5,5,5,0,1,3
+"Zhoushan, Zhejiang, China",5,1,1,1,1,1,7,1,7,7,7,1,1,1,7,5,8,5,1,5,1,1,1,1,0,5
+"Shanghai, China",10,3,1,7,1,1,5,1,5,5,3,1,3,10,5,5,5,10,1,10,1,1,3,3,5,0

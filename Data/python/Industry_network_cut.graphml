@@ -1,0 +1,642 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="float"/>
+<key id="d1" for="node" attr.name="pos" attr.type="string"/>
+<key id="d0" for="graph" attr.name="crs" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">EPSG:4326</data>
+<node id="Suzhou City, Jiangsu, China">
+  <data key="d1">(120.653679024957, 31.38078072150929)</data>
+</node>
+<node id="Yangzhou City, Jiangsu, China">
+  <data key="d1">(119.47278615885945, 32.73807751484801)</data>
+</node>
+<node id="Anqing, Anhui, China">
+  <data key="d1">(116.48716384016682, 30.575870185123257)</data>
+</node>
+<node id="Changzhou, Jiangsu, China">
+  <data key="d1">(119.63652452918636, 31.625699787531467)</data>
+</node>
+<node id="Chizhou, Anhui, China">
+  <data key="d1">(117.36605652914939, 30.283782530856126)</data>
+</node>
+<node id="Chuzhou, Anhui, China">
+  <data key="d1">(118.10239695333057, 32.54418944808414)</data>
+</node>
+<node id="Hangzhou City, Zhejiang, China">
+  <data key="d1">(119.47041554104271, 29.90033741984645)</data>
+</node>
+<node id="Hefei, Anhui, China">
+  <data key="d1">(117.35654447030245, 31.763366059762376)</data>
+</node>
+<node id="Huzhou, Zhejiang, China">
+  <data key="d1">(119.8689629869284, 30.744517137471792)</data>
+</node>
+<node id="Jiaxing, Zhejiang, China">
+  <data key="d1">(120.88624669601344, 30.601748621552154)</data>
+</node>
+<node id="Jinhua, Zhejiang, China">
+  <data key="d1">(119.95212500828937, 29.118267831333778)</data>
+</node>
+<node id="Ma'anshan, Anhui, China">
+  <data key="d1">(118.36635674003728, 31.637048197418398)</data>
+</node>
+<node id="Nanjing, Jiangsu, China">
+  <data key="d1">(118.84263699455808, 31.927427798377387)</data>
+</node>
+<node id="Nantong, Jiangsu, China">
+  <data key="d1">(121.37531677671969, 32.25265232449558)</data>
+</node>
+<node id="Ningbo, Zhejiang, China">
+  <data key="d1">(121.68008226310482, 29.59810446684827)</data>
+</node>
+<node id="Shaoxing, Zhejiang, China">
+  <data key="d1">(120.63658017938135, 29.735203268977102)</data>
+</node>
+<node id="Taizhou, Zhejiang, China">
+  <data key="d1">(121.29163149715038, 28.690777825846023)</data>
+</node>
+<node id="Taizhou, Jiangsu, China">
+  <data key="d1">(120.05614655009447, 32.571587498741785)</data>
+</node>
+<node id="Tongling, Anhui, China">
+  <data key="d1">(117.556308790776, 30.884439696663225)</data>
+</node>
+<node id="Wuxi City, Jiangsu, China">
+  <data key="d1">(120.07519184586202, 31.524848275780982)</data>
+</node>
+<node id="Wuhu, Anhui, China">
+  <data key="d1">(118.13431063448756, 31.162532880841933)</data>
+</node>
+<node id="Xuancheng, Anhui, China">
+  <data key="d1">(118.85147410206932, 30.685285060552626)</data>
+</node>
+<node id="Yancheng City, Jiangsu, China">
+  <data key="d1">(120.56022039585054, 33.58674145420164)</data>
+</node>
+<node id="Zhenjiang, Jiangsu, China">
+  <data key="d1">(119.45367274079776, 32.016434260854574)</data>
+</node>
+<node id="Zhoushan, Zhejiang, China">
+  <data key="d1">(122.36249084584809, 30.31175159368341)</data>
+</node>
+<node id="Shanghai, China">
+  <data key="d1">(121.87417828463474, 31.24198984965843)</data>
+</node>
+<edge source="Suzhou City, Jiangsu, China" target="Anqing, Anhui, China">
+  <data key="d2">1.2198956546357995</data>
+</edge>
+<edge source="Suzhou City, Jiangsu, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">7.882804980916079</data>
+</edge>
+<edge source="Suzhou City, Jiangsu, China" target="Huzhou, Zhejiang, China">
+  <data key="d2">1.5623749847442732</data>
+</edge>
+<edge source="Suzhou City, Jiangsu, China" target="Jinhua, Zhejiang, China">
+  <data key="d2">1.439211190980915</data>
+</edge>
+<edge source="Suzhou City, Jiangsu, China" target="Ningbo, Zhejiang, China">
+  <data key="d2">1.6649211206562595</data>
+</edge>
+<edge source="Suzhou City, Jiangsu, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">4.491161156258585</data>
+</edge>
+<edge source="Suzhou City, Jiangsu, China" target="Taizhou, Jiangsu, China">
+  <data key="d2">1.4244802929677953</data>
+</edge>
+<edge source="Suzhou City, Jiangsu, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">3.679130344020474</data>
+</edge>
+<edge source="Suzhou City, Jiangsu, China" target="Xuancheng, Anhui, China">
+  <data key="d2">40.66398147090959</data>
+</edge>
+<edge source="Suzhou City, Jiangsu, China" target="Zhoushan, Zhejiang, China">
+  <data key="d2">0.4956065680904888</data>
+</edge>
+<edge source="Yangzhou City, Jiangsu, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">8.08771680237632</data>
+</edge>
+<edge source="Yangzhou City, Jiangsu, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">4.761688910610866</data>
+</edge>
+<edge source="Yangzhou City, Jiangsu, China" target="Taizhou, Zhejiang, China">
+  <data key="d2">0.6154165601417362</data>
+</edge>
+<edge source="Yangzhou City, Jiangsu, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">3.6375219573911908</data>
+</edge>
+<edge source="Yangzhou City, Jiangsu, China" target="Xuancheng, Anhui, China">
+  <data key="d2">33.78518203705849</data>
+</edge>
+<edge source="Anqing, Anhui, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">4.36577087503226</data>
+</edge>
+<edge source="Anqing, Anhui, China" target="Ma'anshan, Anhui, China">
+  <data key="d2">0.3704568215914583</data>
+</edge>
+<edge source="Anqing, Anhui, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">3.155815524155308</data>
+</edge>
+<edge source="Anqing, Anhui, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">3.1620407741268166</data>
+</edge>
+<edge source="Anqing, Anhui, China" target="Xuancheng, Anhui, China">
+  <data key="d2">23.074980410855364</data>
+</edge>
+<edge source="Changzhou, Jiangsu, China" target="Anqing, Anhui, China">
+  <data key="d2">1.072185520071751</data>
+</edge>
+<edge source="Changzhou, Jiangsu, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">7.591719390053982</data>
+</edge>
+<edge source="Changzhou, Jiangsu, China" target="Jinhua, Zhejiang, China">
+  <data key="d2">1.476417279324124</data>
+</edge>
+<edge source="Changzhou, Jiangsu, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">4.217923873166329</data>
+</edge>
+<edge source="Changzhou, Jiangsu, China" target="Taizhou, Zhejiang, China">
+  <data key="d2">0.618709362509312</data>
+</edge>
+<edge source="Changzhou, Jiangsu, China" target="Taizhou, Jiangsu, China">
+  <data key="d2">1.4902871272840927</data>
+</edge>
+<edge source="Changzhou, Jiangsu, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">3.549382903541019</data>
+</edge>
+<edge source="Changzhou, Jiangsu, China" target="Xuancheng, Anhui, China">
+  <data key="d2">43.249562546356344</data>
+</edge>
+<edge source="Changzhou, Jiangsu, China" target="Zhoushan, Zhejiang, China">
+  <data key="d2">0.46218045551476056</data>
+</edge>
+<edge source="Chizhou, Anhui, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">6.612919438648954</data>
+</edge>
+<edge source="Chizhou, Anhui, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">3.71772596990446</data>
+</edge>
+<edge source="Chizhou, Anhui, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">2.8709059994030803</data>
+</edge>
+<edge source="Chizhou, Anhui, China" target="Xuancheng, Anhui, China">
+  <data key="d2">28.100995939462678</data>
+</edge>
+<edge source="Chuzhou, Anhui, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">4.27708820739348</data>
+</edge>
+<edge source="Chuzhou, Anhui, China" target="Nanjing, Jiangsu, China">
+  <data key="d2">1.223946072136983</data>
+</edge>
+<edge source="Chuzhou, Anhui, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">1.8925801617063553</data>
+</edge>
+<edge source="Chuzhou, Anhui, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">1.8774893299603685</data>
+</edge>
+<edge source="Chuzhou, Anhui, China" target="Xuancheng, Anhui, China">
+  <data key="d2">12.525963470854245</data>
+</edge>
+<edge source="Chuzhou, Anhui, China" target="Shanghai, China">
+  <data key="d2">1.6884476957760328</data>
+</edge>
+<edge source="Hangzhou City, Zhejiang, China" target="Nanjing, Jiangsu, China">
+  <data key="d2">1.0845030652073062</data>
+</edge>
+<edge source="Hangzhou City, Zhejiang, China" target="Xuancheng, Anhui, China">
+  <data key="d2">19.549711363627075</data>
+</edge>
+<edge source="Hangzhou City, Zhejiang, China" target="Shanghai, China">
+  <data key="d2">1.3516903391798365</data>
+</edge>
+<edge source="Hefei, Anhui, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">7.760484466175133</data>
+</edge>
+<edge source="Hefei, Anhui, China" target="Nanjing, Jiangsu, China">
+  <data key="d2">1.2745621754772025</data>
+</edge>
+<edge source="Hefei, Anhui, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">3.359572179496051</data>
+</edge>
+<edge source="Hefei, Anhui, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">3.3512264636943936</data>
+</edge>
+<edge source="Hefei, Anhui, China" target="Wuhu, Anhui, China">
+  <data key="d2">0.9320157816564354</data>
+</edge>
+<edge source="Hefei, Anhui, China" target="Xuancheng, Anhui, China">
+  <data key="d2">28.975860915112012</data>
+</edge>
+<edge source="Hefei, Anhui, China" target="Shanghai, China">
+  <data key="d2">1.7996501169467662</data>
+</edge>
+<edge source="Huzhou, Zhejiang, China" target="Yangzhou City, Jiangsu, China">
+  <data key="d2">1.2677838786771505</data>
+</edge>
+<edge source="Huzhou, Zhejiang, China" target="Changzhou, Jiangsu, China">
+  <data key="d2">1.1076957890252976</data>
+</edge>
+<edge source="Huzhou, Zhejiang, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">6.277335070954918</data>
+</edge>
+<edge source="Huzhou, Zhejiang, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">3.5993346949437433</data>
+</edge>
+<edge source="Huzhou, Zhejiang, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">5.1198096790288945</data>
+</edge>
+<edge source="Huzhou, Zhejiang, China" target="Xuancheng, Anhui, China">
+  <data key="d2">35.86573563797307</data>
+</edge>
+<edge source="Jiaxing, Zhejiang, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">2.533209350736338</data>
+</edge>
+<edge source="Jiaxing, Zhejiang, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">1.905012366926227</data>
+</edge>
+<edge source="Jiaxing, Zhejiang, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">2.1035807783623515</data>
+</edge>
+<edge source="Jiaxing, Zhejiang, China" target="Xuancheng, Anhui, China">
+  <data key="d2">17.895165208897787</data>
+</edge>
+<edge source="Jinhua, Zhejiang, China" target="Chizhou, Anhui, China">
+  <data key="d2">0.4980182010322263</data>
+</edge>
+<edge source="Jinhua, Zhejiang, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">5.591896122423277</data>
+</edge>
+<edge source="Jinhua, Zhejiang, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">3.946515617243478</data>
+</edge>
+<edge source="Jinhua, Zhejiang, China" target="Tongling, Anhui, China">
+  <data key="d2">0.9455012232480521</data>
+</edge>
+<edge source="Jinhua, Zhejiang, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">3.3689846958208904</data>
+</edge>
+<edge source="Jinhua, Zhejiang, China" target="Xuancheng, Anhui, China">
+  <data key="d2">39.44500755998599</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Anqing, Anhui, China">
+  <data key="d2">1.1702039752641307</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Chuzhou, Anhui, China">
+  <data key="d2">1.3788433230740287</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">9.873137044316998</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Hefei, Anhui, China">
+  <data key="d2">0.8855818963167498</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Huzhou, Zhejiang, China">
+  <data key="d2">1.4042755409121808</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Jinhua, Zhejiang, China">
+  <data key="d2">1.5590627072518284</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Nantong, Jiangsu, China">
+  <data key="d2">0.7687497961342088</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Ningbo, Zhejiang, China">
+  <data key="d2">1.4961308281744408</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">5.221503317118288</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Taizhou, Zhejiang, China">
+  <data key="d2">0.6272166839507651</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Taizhou, Jiangsu, China">
+  <data key="d2">1.6329401570823736</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">4.174495861169737</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Xuancheng, Anhui, China">
+  <data key="d2">35.3722308072864</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Yancheng City, Jiangsu, China">
+  <data key="d2">0.9215399991416643</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Zhenjiang, Jiangsu, China">
+  <data key="d2">1.0296755454997553</data>
+</edge>
+<edge source="Ma'anshan, Anhui, China" target="Zhoushan, Zhejiang, China">
+  <data key="d2">0.46789126129012887</data>
+</edge>
+<edge source="Nanjing, Jiangsu, China" target="Chuzhou, Anhui, China">
+  <data key="d2">1.4693004687558824</data>
+</edge>
+<edge source="Nanjing, Jiangsu, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">9.786032200580538</data>
+</edge>
+<edge source="Nanjing, Jiangsu, China" target="Hefei, Anhui, China">
+  <data key="d2">1.0465527284604887</data>
+</edge>
+<edge source="Nanjing, Jiangsu, China" target="Nantong, Jiangsu, China">
+  <data key="d2">0.8771316598053454</data>
+</edge>
+<edge source="Nanjing, Jiangsu, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">3.2413877770723505</data>
+</edge>
+<edge source="Nanjing, Jiangsu, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">2.592253122792009</data>
+</edge>
+<edge source="Nanjing, Jiangsu, China" target="Wuhu, Anhui, China">
+  <data key="d2">0.7971317389930077</data>
+</edge>
+<edge source="Nanjing, Jiangsu, China" target="Xuancheng, Anhui, China">
+  <data key="d2">35.28017320716232</data>
+</edge>
+<edge source="Nantong, Jiangsu, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">5.301382132448612</data>
+</edge>
+<edge source="Nantong, Jiangsu, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">2.450720826471537</data>
+</edge>
+<edge source="Nantong, Jiangsu, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">2.9334324200578754</data>
+</edge>
+<edge source="Nantong, Jiangsu, China" target="Xuancheng, Anhui, China">
+  <data key="d2">19.7874985749164</data>
+</edge>
+<edge source="Ningbo, Zhejiang, China" target="Suzhou City, Jiangsu, China">
+  <data key="d2">1.5890790842873002</data>
+</edge>
+<edge source="Ningbo, Zhejiang, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">5.134829958801045</data>
+</edge>
+<edge source="Ningbo, Zhejiang, China" target="Jiaxing, Zhejiang, China">
+  <data key="d2">1.4834781131217174</data>
+</edge>
+<edge source="Ningbo, Zhejiang, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">3.580022804184906</data>
+</edge>
+<edge source="Ningbo, Zhejiang, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">2.967010763864931</data>
+</edge>
+<edge source="Ningbo, Zhejiang, China" target="Xuancheng, Anhui, China">
+  <data key="d2">41.656287811698526</data>
+</edge>
+<edge source="Shaoxing, Zhejiang, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">2.484767193256627</data>
+</edge>
+<edge source="Shaoxing, Zhejiang, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">2.3588905961485067</data>
+</edge>
+<edge source="Shaoxing, Zhejiang, China" target="Xuancheng, Anhui, China">
+  <data key="d2">28.22419901735587</data>
+</edge>
+<edge source="Taizhou, Zhejiang, China" target="Suzhou City, Jiangsu, China">
+  <data key="d2">1.6322858447683402</data>
+</edge>
+<edge source="Taizhou, Zhejiang, China" target="Yangzhou City, Jiangsu, China">
+  <data key="d2">1.4443298504249131</data>
+</edge>
+<edge source="Taizhou, Zhejiang, China" target="Changzhou, Jiangsu, China">
+  <data key="d2">1.3739331324309845</data>
+</edge>
+<edge source="Taizhou, Zhejiang, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">6.45725232183226</data>
+</edge>
+<edge source="Taizhou, Zhejiang, China" target="Jiaxing, Zhejiang, China">
+  <data key="d2">1.577912384635802</data>
+</edge>
+<edge source="Taizhou, Zhejiang, China" target="Ma'anshan, Anhui, China">
+  <data key="d2">0.36514847742017964</data>
+</edge>
+<edge source="Taizhou, Zhejiang, China" target="Nanjing, Jiangsu, China">
+  <data key="d2">1.1014800101913345</data>
+</edge>
+<edge source="Taizhou, Zhejiang, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">3.5452287298042457</data>
+</edge>
+<edge source="Taizhou, Zhejiang, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">6.057371330443638</data>
+</edge>
+<edge source="Taizhou, Zhejiang, China" target="Xuancheng, Anhui, China">
+  <data key="d2">40.28897067626669</data>
+</edge>
+<edge source="Taizhou, Zhejiang, China" target="Yancheng City, Jiangsu, China">
+  <data key="d2">0.92071835503724</data>
+</edge>
+<edge source="Taizhou, Zhejiang, China" target="Zhenjiang, Jiangsu, China">
+  <data key="d2">1.0020283252304327</data>
+</edge>
+<edge source="Taizhou, Jiangsu, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">6.842133621274887</data>
+</edge>
+<edge source="Taizhou, Jiangsu, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">4.628902287385858</data>
+</edge>
+<edge source="Taizhou, Jiangsu, China" target="Tongling, Anhui, China">
+  <data key="d2">0.9604414861495646</data>
+</edge>
+<edge source="Taizhou, Jiangsu, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">4.590468427106307</data>
+</edge>
+<edge source="Taizhou, Jiangsu, China" target="Xuancheng, Anhui, China">
+  <data key="d2">31.673740102643468</data>
+</edge>
+<edge source="Tongling, Anhui, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">3.43687261203765</data>
+</edge>
+<edge source="Tongling, Anhui, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">1.9157249373500391</data>
+</edge>
+<edge source="Tongling, Anhui, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">1.807223959101847</data>
+</edge>
+<edge source="Tongling, Anhui, China" target="Xuancheng, Anhui, China">
+  <data key="d2">16.427853815277476</data>
+</edge>
+<edge source="Wuxi City, Jiangsu, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">1.2817001559356735</data>
+</edge>
+<edge source="Wuxi City, Jiangsu, China" target="Huzhou, Zhejiang, China">
+  <data key="d2">1.078782780941203</data>
+</edge>
+<edge source="Wuxi City, Jiangsu, China" target="Ningbo, Zhejiang, China">
+  <data key="d2">1.1110845389953223</data>
+</edge>
+<edge source="Wuxi City, Jiangsu, China" target="Taizhou, Zhejiang, China">
+  <data key="d2">0.6360464066064334</data>
+</edge>
+<edge source="Wuxi City, Jiangsu, China" target="Xuancheng, Anhui, China">
+  <data key="d2">38.31214243795553</data>
+</edge>
+<edge source="Wuhu, Anhui, China" target="Chuzhou, Anhui, China">
+  <data key="d2">1.8141466760139737</data>
+</edge>
+<edge source="Wuhu, Anhui, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">13.808699125366527</data>
+</edge>
+<edge source="Wuhu, Anhui, China" target="Hefei, Anhui, China">
+  <data key="d2">1.3348245436845176</data>
+</edge>
+<edge source="Wuhu, Anhui, China" target="Nantong, Jiangsu, China">
+  <data key="d2">1.0106158430814527</data>
+</edge>
+<edge source="Wuhu, Anhui, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">4.389875012075411</data>
+</edge>
+<edge source="Wuhu, Anhui, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">3.7044049990320587</data>
+</edge>
+<edge source="Wuhu, Anhui, China" target="Xuancheng, Anhui, China">
+  <data key="d2">42.778515361195396</data>
+</edge>
+<edge source="Wuhu, Anhui, China" target="Shanghai, China">
+  <data key="d2">1.4244672388020658</data>
+</edge>
+<edge source="Xuancheng, Anhui, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">5.153165504226491</data>
+</edge>
+<edge source="Xuancheng, Anhui, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">3.669591714633759</data>
+</edge>
+<edge source="Xuancheng, Anhui, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">2.657091099495751</data>
+</edge>
+<edge source="Yancheng City, Jiangsu, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">4.949214075709268</data>
+</edge>
+<edge source="Yancheng City, Jiangsu, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">3.5014800777025354</data>
+</edge>
+<edge source="Yancheng City, Jiangsu, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">3.182917329138078</data>
+</edge>
+<edge source="Yancheng City, Jiangsu, China" target="Xuancheng, Anhui, China">
+  <data key="d2">32.05242198128899</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Suzhou City, Jiangsu, China">
+  <data key="d2">1.7467212634180294</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Yangzhou City, Jiangsu, China">
+  <data key="d2">1.2031923047114006</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Changzhou, Jiangsu, China">
+  <data key="d2">1.1219980889241046</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Chizhou, Anhui, China">
+  <data key="d2">0.5876861863921712</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">8.153943006890719</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Huzhou, Zhejiang, China">
+  <data key="d2">1.4376932921954535</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Jiaxing, Zhejiang, China">
+  <data key="d2">1.6582091624639335</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Ma'anshan, Anhui, China">
+  <data key="d2">0.32634534108437335</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Ningbo, Zhejiang, China">
+  <data key="d2">1.4854632600112971</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">5.632398394658426</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Tongling, Anhui, China">
+  <data key="d2">1.195901210191817</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">4.687415488161538</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Xuancheng, Anhui, China">
+  <data key="d2">37.82966210127391</data>
+</edge>
+<edge source="Zhenjiang, Jiangsu, China" target="Yancheng City, Jiangsu, China">
+  <data key="d2">0.9140028589704587</data>
+</edge>
+<edge source="Zhoushan, Zhejiang, China" target="Chizhou, Anhui, China">
+  <data key="d2">0.5094727232518553</data>
+</edge>
+<edge source="Zhoushan, Zhejiang, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">9.528073271864752</data>
+</edge>
+<edge source="Zhoushan, Zhejiang, China" target="Ma'anshan, Anhui, China">
+  <data key="d2">0.33220869428415895</data>
+</edge>
+<edge source="Zhoushan, Zhejiang, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">6.265912220534232</data>
+</edge>
+<edge source="Zhoushan, Zhejiang, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">6.54830408001867</data>
+</edge>
+<edge source="Zhoushan, Zhejiang, China" target="Xuancheng, Anhui, China">
+  <data key="d2">73.02666691116374</data>
+</edge>
+<edge source="Shanghai, China" target="Suzhou City, Jiangsu, China">
+  <data key="d2">1.581358508797268</data>
+</edge>
+<edge source="Shanghai, China" target="Yangzhou City, Jiangsu, China">
+  <data key="d2">1.407064126753578</data>
+</edge>
+<edge source="Shanghai, China" target="Anqing, Anhui, China">
+  <data key="d2">1.1369463553045183</data>
+</edge>
+<edge source="Shanghai, China" target="Changzhou, Jiangsu, China">
+  <data key="d2">1.300069504977339</data>
+</edge>
+<edge source="Shanghai, China" target="Chizhou, Anhui, China">
+  <data key="d2">0.5617648950831804</data>
+</edge>
+<edge source="Shanghai, China" target="Chuzhou, Anhui, China">
+  <data key="d2">1.9405074943180474</data>
+</edge>
+<edge source="Shanghai, China" target="Hangzhou City, Zhejiang, China">
+  <data key="d2">14.84737574913213</data>
+</edge>
+<edge source="Shanghai, China" target="Hefei, Anhui, China">
+  <data key="d2">1.3963540340997969</data>
+</edge>
+<edge source="Shanghai, China" target="Huzhou, Zhejiang, China">
+  <data key="d2">1.6623356997858953</data>
+</edge>
+<edge source="Shanghai, China" target="Jiaxing, Zhejiang, China">
+  <data key="d2">1.937100939607518</data>
+</edge>
+<edge source="Shanghai, China" target="Jinhua, Zhejiang, China">
+  <data key="d2">1.6337546721850997</data>
+</edge>
+<edge source="Shanghai, China" target="Nanjing, Jiangsu, China">
+  <data key="d2">1.572214751228505</data>
+</edge>
+<edge source="Shanghai, China" target="Nantong, Jiangsu, China">
+  <data key="d2">1.2900124298539228</data>
+</edge>
+<edge source="Shanghai, China" target="Ningbo, Zhejiang, China">
+  <data key="d2">1.7767799795402714</data>
+</edge>
+<edge source="Shanghai, China" target="Shaoxing, Zhejiang, China">
+  <data key="d2">4.771619184416797</data>
+</edge>
+<edge source="Shanghai, China" target="Taizhou, Jiangsu, China">
+  <data key="d2">1.5620385316022831</data>
+</edge>
+<edge source="Shanghai, China" target="Tongling, Anhui, China">
+  <data key="d2">1.1119012461963342</data>
+</edge>
+<edge source="Shanghai, China" target="Wuxi City, Jiangsu, China">
+  <data key="d2">4.981481656433228</data>
+</edge>
+<edge source="Shanghai, China" target="Wuhu, Anhui, China">
+  <data key="d2">1.1572720783461605</data>
+</edge>
+<edge source="Shanghai, China" target="Xuancheng, Anhui, China">
+  <data key="d2">48.66201774010818</data>
+</edge>
+<edge source="Shanghai, China" target="Yancheng City, Jiangsu, China">
+  <data key="d2">1.139911118001373</data>
+</edge>
+<edge source="Shanghai, China" target="Zhenjiang, Jiangsu, China">
+  <data key="d2">1.1756805583903036</data>
+</edge>
+<edge source="Shanghai, China" target="Zhoushan, Zhejiang, China">
+  <data key="d2">0.47316847028033016</data>
+</edge>
+</graph></graphml>
